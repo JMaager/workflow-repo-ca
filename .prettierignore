@@ -1,0 +1,12 @@
+﻿node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+
+# build artifacts
+css/style.css
+
+# misc
+package-lock.json
+.husky/
